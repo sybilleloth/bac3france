@@ -1,0 +1,14 @@
+altair
+folium 
+geopandas 
+leafmap
+matplotlib 
+pandas 
+Pillow
+plotly
+pydeck 
+scikit-learn
+seaborn 
+setuptools
+streamlit
+streamlit_folium
